@@ -1,13 +1,14 @@
 {
     "name": "ruay_info123456",
+    "theme": "syntax",
     "version": "1.5.1",
     "description": "ruay เว็บรวย สมัครเล่นหวยออนไลน์",
-    "repository": "git+https://github.com/basicjame1/ruay123456",
     "keywords": [
         "ruay",
         "เว็บรวย",
         "รวย"
     ],
+    "repository": "git+https://github.com/basicjame1/ruay123456",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
