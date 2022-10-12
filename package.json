@@ -8,10 +8,8 @@
         "เว็บรวย",
         "รวย"
     ],
-    "author": "",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/basicjame1/ruay123456/issues"
-    },
-    "homepage": "https://github.com/basicjame1/ruay123456#readme"
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
