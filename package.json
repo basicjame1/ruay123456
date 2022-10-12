@@ -2,10 +2,6 @@
     "name": "ruay_info123456",
     "version": "1.5.0",
     "description": "ruay เว็บรวย สมัครเล่นหวยออนไลน์",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "repository": "git+https://github.com/basicjame1/ruay123456",
     "keywords": [
         "ruay",
